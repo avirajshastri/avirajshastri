@@ -58,7 +58,7 @@
 
 ###
 
-![Pacman Graph](https://raw.githubusercontent.com/avirajshastri/avirajshastri/output/pacman-contribution-graph.svg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avirajshastri/avirajshastri/output/pacman-contribution-graph-dark.svg">
