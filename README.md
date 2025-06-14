@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Aviraj,<br><br>- 🔭 I’m working as a Software Developer @HCLSoftware<br>- 📚 I'm currently learning backend development</p>
+<p align="left">I'm Aviraj,<br><br>- 🔭 I’m working as a Software Developer @HCLSoftware<br>- 📚 I'm currently learning backend development<br>- 📫 Reach me: shastriaviraj@gmail.com </p>
 
 ###
 
